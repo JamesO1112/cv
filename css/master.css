@@ -1,0 +1,31 @@
+
+body {
+    background-color: powderblue;
+}
+
+hr {
+    border-color: azure;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 3%;
+}
+
+h1 {
+    color: deepskyblue;
+}
+
+h3 {
+    color: deepskyblue;
+}
+
+a {
+    color: deepskyblue;
+}
+
+a:hover {
+    color:azure;
+}
+
+.circular {
+    border-radius: 100%;
+}
